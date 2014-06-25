@@ -262,6 +262,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/vendor/lib/egl/libEGL_adreno.so:/system/vendor/lib/egl/libEGL_adreno.so \
         vendor/htc/m8/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:/system/vendor/lib/egl/libGLESv1_CM_adreno.so \
         vendor/htc/m8/proprietary/vendor/lib/egl/libGLESv2_adreno.so:/system/vendor/lib/egl/libGLESv2_adreno.so \
+        vendor/htc/m8/proprietary/vendor/lib/egl/libplayback_adreno.so:/system/vendor/lib/egl/libplayback_adreno.so \
         vendor/htc/m8/proprietary/vendor/lib/egl/libq3dtools_adreno.so:/system/vendor/lib/egl/libq3dtools_adreno.so \
         vendor/htc/m8/proprietary/vendor/lib/libacdbloader.so:/system/vendor/lib/libacdbloader.so \
         vendor/htc/m8/proprietary/vendor/lib/libacdbmapper.so:/system/vendor/lib/libacdbmapper.so \
